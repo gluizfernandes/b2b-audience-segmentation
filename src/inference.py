@@ -1,6 +1,7 @@
 import joblib
 import numpy as np
 import pandas as pd
+from pathlib import Path
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 
@@ -18,6 +19,8 @@ def save_model(
     model_path: str = "models/modelo_b2b.pkl",
     scaler_path: str = "models/scaler_b2b.pkl",
 ) -> None:
+    Path(model_path).parent.mkdir(parents=True, exist_ok=True)
+    Path(scaler_path).parent.mkdir(parents=True, exist_ok=True)
     joblib.dump(kmeans, model_path)
     joblib.dump(scaler, scaler_path)
 
