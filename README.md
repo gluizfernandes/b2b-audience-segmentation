@@ -117,4 +117,4 @@ MIT
 ---
 
 **George Luiz Pereira Fernandes**
-[LinkedIn](https://linkedin.com/in/georgeluizfernandes) | [Medium](https://medium.com/@georgeluizfernandes)
+[LinkedIn](https://www.linkedin.com/in/gluizfernandes/) | [Medium](https://medium.com/@gluizfernandes)
