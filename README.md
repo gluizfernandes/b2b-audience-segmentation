@@ -27,7 +27,7 @@ O resultado: budget distribuído igualmente entre empresas com CTR de 18% e empr
 ## Quickstart
 
 ```bash
-git clone https://github.com/georgeluizfernandes/b2b-audience-segmentation
+git clone https://github.com/gluizfernandes/b2b-audience-segmentation
 cd b2b-audience-segmentation
 pip install -r requirements.txt
 jupyter notebook notebooks/b2b_segmentation.ipynb
