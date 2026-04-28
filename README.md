@@ -49,9 +49,6 @@ src/
 notebooks/
   b2b_segmentation.ipynb   Pipeline completo e comentado
 models/                    Modelos gerados ao rodar o notebook
-content/
-  linkedin/            3 posts prontos para publicar
-  medium/              Artigo técnico completo
 ```
 
 ---
