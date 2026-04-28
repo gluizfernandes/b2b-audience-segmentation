@@ -52,5 +52,5 @@ models/             Modelos serializados (gerados ao rodar o notebook)
 - Python 3.11+ com type hints
 - Sem dados reais (LGPD) - dataset simulado reproduzivel com seed fixo
 - Codigo modular: cada src/ faz uma coisa
-- Comentários so onde o motivo não é obvio
+- Comentários só onde o motivo não é obvio
 - README em portugues, codigo em ingles
