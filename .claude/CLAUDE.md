@@ -1,10 +1,10 @@
 # B2B Audience Segmentation
 
-Pipeline de ML open-source para segmentacao comportamental de audiencias B2B em midia paga.
+Pipeline de ML open-source para segmentação comportamental de audiencias B2B em midia paga.
 
-Resolve o problema de budget desperdicado em Google Ads e LinkedIn Ads B2B,
-onde a segmentacao firmografica tradicional trata comportamentos radicalmente
-diferentes como se fossem a mesma audiencia.
+Resolve o problema de budget desperdiçado em Google Ads e LinkedIn Ads B2B,
+onde a segmentaçãoo firmografica tradicional trata comportamentos radicalmente
+diferentes como se fossem a mesma audiência.
 
 ## O problema que resolve
 
