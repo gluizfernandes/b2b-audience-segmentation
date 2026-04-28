@@ -45,10 +45,6 @@ src/                Modulos Python limpos e reutilizaveis
   visualization.py
   inference.py
 models/             Modelos serializados (gerados ao rodar o notebook)
-content/
-  linkedin/         3 posts prontos para publicar
-  medium/           Artigo tecnico completo
-presentation/       Deck HTML executivo
 ```
 
 ## Convencoes
@@ -56,5 +52,5 @@ presentation/       Deck HTML executivo
 - Python 3.11+ com type hints
 - Sem dados reais (LGPD) - dataset simulado reproduzivel com seed fixo
 - Codigo modular: cada src/ faz uma coisa
-- Comentarios so onde o motivo nao e obvio
+- Comentários so onde o motivo não é obvio
 - README em portugues, codigo em ingles
