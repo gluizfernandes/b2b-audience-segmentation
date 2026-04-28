@@ -9,11 +9,11 @@ diferentes como se fossem a mesma audiência.
 ## O problema que resolve
 
 Empresas B2B investem em midia paga segmentando por setor e faturamento.
-Esse filtro e estatico. Nao captura se a empresa clica, quanto paga por clique,
-nem quanto tempo fica no site. O resultado e orcamento distribuido igualmente
+Esse filtro e estatico. Não captura se a empresa clica, quanto paga por clique,
+nem quanto tempo fica no site. O resultado e orçamento distribuido igualmente
 entre perfis com ROI completamente diferentes.
 
-## A solucao
+## A solução
 
 K-Means sobre 3 metricas comportamentais (CTR, CPC, avg_time_site) agrupa
 automaticamente as contas em 3 personas com estrategias de midia distintas.
@@ -47,7 +47,7 @@ src/                Modulos Python limpos e reutilizaveis
 models/             Modelos serializados (gerados ao rodar o notebook)
 ```
 
-## Convencoes
+## Convenções
 
 - Python 3.11+ com type hints
 - Sem dados reais (LGPD) - dataset simulado reproduzivel com seed fixo
